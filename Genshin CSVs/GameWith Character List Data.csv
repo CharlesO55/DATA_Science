@@ -1,0 +1,84 @@
+,Character,Element,Weapon,Bonus Stat,Tier,Gamewith Link
+0,Alhaitham,Dendro,Sword,Dendro DMG Bonus,SS,https://gamewith.net/genshin-impact/article/show/33663
+1,Baizhu,Dendro,Catalyst,HP%,SS,https://gamewith.net/genshin-impact/article/show/23803
+2,Bennett,Pyro,Sword,Energy Recharge,SS,https://gamewith.net/genshin-impact/article/show/22347
+3,Furina,Hydro,Sword,CRIT Rate,SS,https://gamewith.net/genshin-impact/article/show/36031
+4,Kazuha,Anemo,Sword,Elemental Mastery,SS,https://gamewith.net/genshin-impact/article/show/24514
+5,Kokomi,Hydro,Catalyst,Hydro DMG Bonus,SS,https://gamewith.net/genshin-impact/article/show/24455
+6,Kuki Shinobu,Electro,Sword,HP%,SS,https://gamewith.net/genshin-impact/article/show/29488
+7,Nahida,Dendro,Catalyst,Elemental Mastery,SS,https://gamewith.net/genshin-impact/article/show/33274
+8,Neuvillette,Hydro,Catalyst,CRIT DMG,SS,https://gamewith.net/genshin-impact/article/show/39683
+9,Raiden Shogun,Electro,Polearm,Energy Recharge,SS,https://gamewith.net/genshin-impact/article/show/24184
+10,Tighnari,Dendro,Bow,Dendro DMG Bonus,SS,https://gamewith.net/genshin-impact/article/show/33276
+11,Xiangling,Pyro,Polearm,Elemental Mastery,SS,https://gamewith.net/genshin-impact/article/show/22339
+12,Xingqiu,Hydro,Sword,ATK%,SS,https://gamewith.net/genshin-impact/article/show/22338
+13,Yae Miko,Electro,Catalyst,Crit Rate,SS,https://gamewith.net/genshin-impact/article/show/24650
+14,Yelan,Hydro,Bow,CRIT Rate,SS,https://gamewith.net/genshin-impact/article/show/33289
+15,Zhongli,Geo,Polearm,Geo DMG Bonus,SS,https://gamewith.net/genshin-impact/article/show/22838
+16,Ayaka,Cryo,Sword,CRIT DMG,S,https://gamewith.net/genshin-impact/article/show/22837
+17,Childe,Hydro,Bow,Hydro DMG Bonus,S,https://gamewith.net/genshin-impact/article/show/22922
+18,Fischl,Electro,Bow,ATK%,S,https://gamewith.net/genshin-impact/article/show/22345
+19,Hu Tao,Pyro,Polearm,CRIT DMG,S,https://gamewith.net/genshin-impact/article/show/23791
+20,Jean,Anemo,Sword,Healing Bonus,S,https://gamewith.net/genshin-impact/article/show/22356
+21,Lyney,Pyro,Bow,CRIT Rate,S,https://gamewith.net/genshin-impact/article/show/24369
+22,Navia,Geo,Claymore,CRIT DMG,S,https://gamewith.net/genshin-impact/article/show/40238
+23,Nilou,Hydro,Sword,HP%,S,https://gamewith.net/genshin-impact/article/show/31554
+24,Sucrose,Anemo,Catalyst,Anemo DMG Bonus,S,https://gamewith.net/genshin-impact/article/show/22344
+25,Wanderer,Anemo,Catalyst,CRIT Rate,S,https://gamewith.net/genshin-impact/article/show/23288
+26,Wriothesley,Cryo,Catalyst,CRIT DMG,S,https://gamewith.net/genshin-impact/article/show/40237
+27,Xianyun,Anemo,Catalyst,ATK%,S,https://gamewith.net/genshin-impact/article/show/41848
+28,Albedo,Geo,Sword,Geo DMG Bonus,A,https://gamewith.net/genshin-impact/article/show/23420
+29,Ayato,Hydro,Sword,CRIT DMG,A,https://gamewith.net/genshin-impact/article/show/24635
+30,Charlotte,Cryo,Catalyst,ATK%,A,https://gamewith.net/genshin-impact/article/show/39069
+31,Chevreuse,Pyro,Polearm,HP%,A,https://gamewith.net/genshin-impact/article/show/41187
+32,Collei,Dendro,Bow,ATK%,A,https://gamewith.net/genshin-impact/article/show/28969
+33,Cyno,Electro,Polearm,CRIT DMG,A,https://gamewith.net/genshin-impact/article/show/24371
+34,Dendro Traveler,Dendro,Sword,ATK%,A,https://gamewith.net/genshin-impact/article/show/29670
+35,Diona,Cryo,Bow,Cryo DMG Bonus,A,https://gamewith.net/genshin-impact/article/show/22924
+36,Gaming,Pyro,Claymore,ATK%,A,https://gamewith.net/genshin-impact/article/show/42764
+37,Ganyu,Cryo,Bow,CRIT DMG,A,https://gamewith.net/genshin-impact/article/show/23418
+38,Itto,Geo,Claymore,CRIT Rate,A,https://gamewith.net/genshin-impact/article/show/29489
+39,Layla,Cryo,Sword,HP%,A,https://gamewith.net/genshin-impact/article/show/34439
+40,Mona,Hydro,Catalyst,Energy Recharge,A,https://gamewith.net/genshin-impact/article/show/22343
+41,Shenhe,Cryo,Polearm,ATK%,A,https://gamewith.net/genshin-impact/article/show/24520
+42,Venti,Anemo,Bow,Energy Recharge,A,https://gamewith.net/genshin-impact/article/show/22349
+43,Xiao,Anemo,Polearm,CRIT Rate,A,https://gamewith.net/genshin-impact/article/show/22342
+44,Yaoyao,Dendro,Polearm,HP%,A,https://gamewith.net/genshin-impact/article/show/23804
+45,Yoimiya,Pyro,Bow,CRIT Rate,A,https://gamewith.net/genshin-impact/article/show/24607
+46,Yun Jin,Geo,Polearm,Energy Recharge,A,https://gamewith.net/genshin-impact/article/show/24116
+47,Beidou,Electro,Claymore,Electro DMG Bonus,B,https://gamewith.net/genshin-impact/article/show/22341
+48,Diluc,Pyro,Claymore,CRIT Rate,B,https://gamewith.net/genshin-impact/article/show/22351
+49,Eula,Cryo,Claymore,CRIT DMG,B,https://gamewith.net/genshin-impact/article/show/25134
+50,Faruzan,Anemo,Bow,ATK%,B,https://gamewith.net/genshin-impact/article/show/34437
+51,Kaeya,Cryo,Sword,Energy Recharge,B,https://gamewith.net/genshin-impact/article/show/22353
+52,Keqing,Electro,Sword,CRIT DMG,B,https://gamewith.net/genshin-impact/article/show/22335
+53,Kirara,Dendro,Sword,HP%,B,https://gamewith.net/genshin-impact/article/show/38304
+54,Lisa,Electro,Catalyst,Elemental Mastery,B,https://gamewith.net/genshin-impact/article/show/22354
+55,Lynette,Anemo,Sword,Anemo DMG Bonus,B,https://gamewith.net/genshin-impact/article/show/24368
+56,Rosaria,Cryo,Polearm,ATK%,B,https://gamewith.net/genshin-impact/article/show/23585
+57,Sayu,Anemo,Claymore,Elemental Mastery,B,https://gamewith.net/genshin-impact/article/show/24530
+58,Thoma,Pyro,Polearm,ATK%,B,https://gamewith.net/genshin-impact/article/show/24526
+59,Barbara,Hydro,Catalyst,HP,C,https://gamewith.net/genshin-impact/article/show/22352
+60,Candace,Hydro,Polearm,HP%,C,https://gamewith.net/genshin-impact/article/show/34438
+61,Chongyun,Cryo,Claymore,ATK%,C,https://gamewith.net/genshin-impact/article/show/22337
+62,Freminet,Cryo,Claymore,ATK%,C,https://gamewith.net/genshin-impact/article/show/40240
+63,Gorou,Geo,Bow,Geo DMG Bonus,C,https://gamewith.net/genshin-impact/article/show/28855
+64,Kaveh,Dendro,Claymore,Elemental Mastery,C,https://gamewith.net/genshin-impact/article/show/24664
+65,Klee,Pyro,Catalyst,Pyro DMG Bonus,C,https://gamewith.net/genshin-impact/article/show/22348
+66,Kujou Sara,Electro,Bow,ATK%,C,https://gamewith.net/genshin-impact/article/show/28845
+67,Mika,Cryo,Polearm,HP%,C,https://gamewith.net/genshin-impact/article/show/34440
+68,Shikanoin Heizou,Anemo,Catalyst,Anemo DMG Bonus,C,https://gamewith.net/genshin-impact/article/show/33277
+69,Yanfei,Pyro,Catalyst,Pyro DMG Bonus,C,https://gamewith.net/genshin-impact/article/show/25133
+70,Aloy,Cryo,Bow,Cryo DMG Bonus,D,https://gamewith.net/genshin-impact/article/show/29597
+71,Amber,Pyro,Bow,ATK%,D,https://gamewith.net/genshin-impact/article/show/22355
+72,Anemo Traveler,Anemo,Sword,ATK%,D,https://gamewith.net/genshin-impact/article/show/22643
+73,Dehya,Pyro,Claymore,HP%,D,https://gamewith.net/genshin-impact/article/show/33787
+74,Dori,Electro,Claymore,HP%,D,https://gamewith.net/genshin-impact/article/show/33664
+75,Electro Traveler,Electro,Sword,ATK%,D,https://gamewith.net/genshin-impact/article/show/28610
+76,Geo Traveler,Geo,Sword,ATK%,D,https://gamewith.net/genshin-impact/article/show/22642
+77,Hydro Traveler,Hydro,Sword,ATK%,D,https://gamewith.net/genshin-impact/article/show/29673
+78,Ningguang,Geo,Catalyst,Geo DMG Bonus,D,https://gamewith.net/genshin-impact/article/show/22340
+79,Noelle,Geo,Claymore,DEF,D,https://gamewith.net/genshin-impact/article/show/22346
+80,Qiqi,Cryo,Sword,Healing Bonus,D,https://gamewith.net/genshin-impact/article/show/22336
+81,Razor,Electro,Claymore,Physical DMG Bonus,D,https://gamewith.net/genshin-impact/article/show/22350
+82,Xinyan,Pyro,Claymore,ATK%,D,https://gamewith.net/genshin-impact/article/show/22923

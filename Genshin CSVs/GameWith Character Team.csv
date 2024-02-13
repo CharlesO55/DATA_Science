@@ -1,0 +1,197 @@
+,Character,Gamewith Link,Rating,F2P Team,P2W Team
+0,Alhaitham,https://gamewith.net/genshin-impact/article/show/33663,['SS' '-' '-' '-'],"['Main' 'Alhaitham' 'Sub-DPS' 'Fischl' 'Resonance' 'Collei' 'Support'
+ 'Barbara']","['DPS' 'Alhaitham' 'Support' 'Nahida' 'Sub-DPS' 'Xingqiu' 'Heal'
+ 'Kuki Shinobu']"
+1,Baizhu,https://gamewith.net/genshin-impact/article/show/23803,['-' '-' 'SS' 'SS'],['Heal' 'Baizhu' 'DPS' 'Lisa' 'Sub-DPS' 'Xingqiu' 'Support' 'Sucrose'],['Healer' 'Baizhu' 'DPS' 'Cyno' 'Support' 'Nahida' 'Sub-DPS' 'Xingqiu']
+2,Bennett,https://gamewith.net/genshin-impact/article/show/22347,['-' '-' 'SS' 'SS'],"['Main DPS' 'Xiangling' 'Sub-DPS' 'Xingqiu' 'Sub-DPS' 'Chongyun' 'Support'
+ 'Bennett']","['Main DPS' 'Xiao' 'Sub-DPS' 'Albedo' 'Sub-DPS' 'Zhongli' 'Support'
+ 'Bennett']"
+3,Furina,https://gamewith.net/genshin-impact/article/show/36031,['-' 'SS' 'SS' 'A'],['Sub-DPS' 'Furina' 'DPS' 'Noelle' 'Support' 'Gorou' 'Sub-DPS' 'Ningguang'],"['Sub-DPS' 'Furina' 'DPS' 'Neuvillette' 'Support' 'Kazuha' 'Support'
+ 'Baizhu']"
+4,Kazuha,https://gamewith.net/genshin-impact/article/show/24514,['-' 'A' 'SS' '-'],"['Main DPS' 'Xiangling' 'Sub-DPS' 'Xingqiu' 'Sub-DPS' 'Kazuha' 'Support'
+ 'Bennett']","['Enabler' 'Kazuha' 'Sub-DPS' 'Nahida' 'Sub-DPS / Healer' 'Kuki Shinobu'
+ 'Main DPS' 'Ayato']"
+5,Kokomi,https://gamewith.net/genshin-impact/article/show/24455,['B' 'B' 'SS' 'SS'],"['Sub-DPS' 'Kokomi' 'Main DPS' 'Lisa' 'Sub-DPS' 'Fischl' 'Support'
+ 'Lynette']","['Healer' 'Kokomi' 'Main DPS' 'Nilou' 'Sub-DPS' 'Nahida' 'Enabler'
+ 'Dendro Traveler']"
+6,Kuki Shinobu,https://gamewith.net/genshin-impact/article/show/29488,['-' 'S' 'S' 'B'],"['Reaction' 'Kuki Shinobu' 'Main Enabler' 'Barbara' 'Sub-DPS'
+ 'Dendro Traveler' 'Support' 'Collei']","['Enabler' 'Kuki Shinobu' 'DPS' 'Childe' 'Support' 'Dendro Traveler'
+ 'Reaction' 'Collei']"
+7,Nahida,https://gamewith.net/genshin-impact/article/show/33274,['-' 'SS' 'SS' '-'],"['Main' 'Nahida' 'Sub-DPS' 'Xingqiu' 'Resonance' 'Dendro Traveler'
+ 'Support' 'Kuki Shinobu']","['Support' 'Nahida' 'DPS' 'Cyno' 'Sub-DPS' 'Dendro Traveler' 'Support'
+ 'Kokomi']"
+8,Neuvillette,https://gamewith.net/genshin-impact/article/show/39683,['SS' '-' '-' '-'],"['Main DPS' 'Neuvillette' 'Sub-DPS' 'Lisa' 'Sub-DPS' 'Kaeya' 'Support'
+ 'Sucrose']","['Main DPS' 'Neuvillette' 'Sub-DPS' 'Fischl' 'Support' 'Diona' 'Support'
+ 'Kazuha']"
+9,Raiden Shogun,https://gamewith.net/genshin-impact/article/show/24184,['S' 'S' 'SS' '-'],"['Sub-DPS' 'Raiden Shogun' 'Enabler' 'Barbara' 'Support' 'Collei'
+ 'Support' 'Dendro Traveler']",
+10,Tighnari,https://gamewith.net/genshin-impact/article/show/33276,['S' '-' '-' '-'],,"['Damage' 'Tighnari' 'Sub-DPS' 'Collei' 'Support' 'Fischl' 'Heal'
+ 'Kuki Shinobu']"
+11,Xiangling,https://gamewith.net/genshin-impact/article/show/22339,['-' 'SS' '-' '-'],,"['Sub DPS' 'Xiangling' 'Flex Support' 'Bennett' 'Main DPS' 'Childe'
+ 'Support' 'Kazuha']"
+12,Xingqiu,https://gamewith.net/genshin-impact/article/show/22338,['-' 'SS' 'S' 'D'],,"['Sub DPS' 'Xingqiu' 'Sub DPS' 'Yelan' 'Main DPS' 'Hu Tao' 'Support'
+ 'Zhongli']"
+13,Yae Miko,https://gamewith.net/genshin-impact/article/show/24650,['-' 'SS' '-' '-'],"['Main DPS' 'Yae Miko' 'Sub-DPS' 'Xingqiu' 'Sub-DPS' 'Fischl' 'Support'
+ 'Barbara']","['Main DPS' 'Yae Miko' 'Sub-DPS' 'Dendro Traveler' 'Sub-DPS' 'Fischl'
+ 'Support' 'Jean']"
+14,Yelan,https://gamewith.net/genshin-impact/article/show/33289,['-' 'SS' 'S' '-'],,['Damage' 'Yelan' 'Damage' 'Wriothesley' 'Support' 'Kazuha' 'Heal' 'Diona']
+15,Zhongli,https://gamewith.net/genshin-impact/article/show/22838,['-' '-' 'SS' '-'],"['Main DPS' 'Noelle' 'Sub-DPS' 'Lisa' 'Sub-DPS' 'Geo Traveler'
+ 'Sub-DPS / Shielder' 'Zhongli']","['Main DPS' 'Itto' 'Sub-DPS' 'Albedo' 'Sub-DPS' 'Gorou' 'Support / Shield'
+ 'Zhongli']"
+16,Ayaka,https://gamewith.net/genshin-impact/article/show/22837,['S' '-' '-' '-'],"['Main DPS' 'Ayaka' 'Sub-DPS' 'Xiangling' 'Sub-DPS' 'Xingqiu'
+ 'Sub-DPS / Healer' 'Diona']",['Main DPS' 'Ayaka' 'Sub-DPS' 'Mona' 'Sub-DPS' 'Kazuha' 'Support' 'Diona']
+17,Childe,https://gamewith.net/genshin-impact/article/show/22922,['S' '-' '-' '-'],"['Main DPS' 'Childe' 'Sub-DPS' 'Xiangling' 'Sub-DPS' 'Sucrose' 'Support'
+ 'Bennett']","['Main DPS' 'Childe' 'Sub-DPS' 'Fischl' 'Sub-DPS' 'Beidou' 'Support'
+ 'Sucrose']"
+18,Fischl,https://gamewith.net/genshin-impact/article/show/22345,['-' 'S' '-' '-'],,"['Sub-DPS' 'Fischl' 'Main DPS' 'Neuvillette' 'Sub-DPS' 'Beidou' 'Support'
+ 'Kazuha']"
+19,Hu Tao,https://gamewith.net/genshin-impact/article/show/23791,['S' '-' '-' '-'],"['Main DPS' 'Hu Tao' 'Sub-DPS' 'Xingqiu' 'Sub-DPS' 'Sucrose' 'Support'
+ 'Diona']","['Main DPS' 'Hu Tao' 'Sub-DPS' 'Yelan' 'Sub-DPS' 'Xingqiu' 'Shield'
+ 'Zhongli']"
+20,Jean,https://gamewith.net/genshin-impact/article/show/22356,['-' 'C' 'S' 'SS'],"['Main DPS' 'Jean' 'Sub-DPS' 'Rosaria' 'Sub-DPS' 'Xingqiu' 'Support'
+ 'Sucrose']","['Healer' 'Jean' 'Main DPS' 'Neuvillette' 'Sub-DPS' 'Furina' 'Support'
+ 'Fischl']"
+21,Lyney,https://gamewith.net/genshin-impact/article/show/24369,['S' '-' '-' '-'],,"['Main DPS' 'Lyney' 'Sub-DPS' 'Xiangling' 'Support' 'Kazuha' 'Healing'
+ 'Bennett']"
+22,Navia,https://gamewith.net/genshin-impact/article/show/40238,['S' 'A' '-' '-'],"['DPS' 'Navia' '-Sub-DPS' 'Barbara' 'Support' 'Geo Traveler' 'Sub-DPS'
+ 'Lisa']","['DPS' 'Navia' 'Sub-DPS' 'Albedo' 'Sub-DPS' 'Xiangling' 'Support'
+ 'Bennett']"
+23,Nilou,https://gamewith.net/genshin-impact/article/show/31554,['-' '-' 'S' '-'],"['Reaction' 'Nilou' 'Heal' 'Barbara' 'Sub-DPS' 'Dendro Traveler' 'Support'
+ 'Collei']","['Enabler' 'Nilou' 'Sub-DPS' 'Kokomi' 'Support' 'Collei' 'Support'
+ 'Nahida']"
+24,Sucrose,https://gamewith.net/genshin-impact/article/show/22344,['-' '-' 'S' '-'],"['Support' 'Sucrose' 'Main DPS' 'Lisa' 'Sub DPS' 'Dendro Traveler'
+ 'Support' 'Barbara']","['Support' 'Sucrose' 'Main DPS' 'Klee' 'Sub DPS' 'Yelan' 'Support'
+ 'Bennett']"
+25,Wanderer,https://gamewith.net/genshin-impact/article/show/23288,['S' '-' '-' '-'],"['Main' 'Wanderer' 'Sub-DPS' 'Xingqiu' 'Resonance' 'Xiangling' 'Support'
+ 'Bennett']",['DPS' 'Wanderer' 'Support' 'Faruzan' 'Sub-DPS' 'Yelan' 'Heal' 'Bennett']
+26,Wriothesley,https://gamewith.net/genshin-impact/article/show/40237,['S' '-' '-' '-'],"['Main DPS' 'Wriothesley' 'Sub-DPS' 'Xingqiu' 'Sub-DPS' 'Kaeya' 'Support'
+ 'Lynette']","['Main DPS' 'Wriothesley' 'Sub-DPS' 'Xiangling' 'Support' 'Bennett'
+ 'Support' 'Shenhe']"
+27,Xianyun,https://gamewith.net/genshin-impact/article/show/41848,['-' '-' 'S' 'SS'],"['Support' 'Xianyun' 'Main DPS' 'Gaming' 'Sub-DPS' 'Xingqiu' 'Support'
+ 'Bennett']",
+28,Albedo,https://gamewith.net/genshin-impact/article/show/23420,['-' 'A' 'A' '-'],"['Main DPS' 'Xiangling' 'Sub-DPS' 'Xingqiu' 'Sub-DPS' 'Albedo' 'Support'
+ 'Fischl']","['Sub-DPS' 'Albedo' 'Main DPS' 'Xiao' 'Sub-DPS' 'Jean' 'Support / Shield'
+ 'Zhongli']"
+29,Ayato,https://gamewith.net/genshin-impact/article/show/24635,['A' 'A' '-' '-'],"['DPS' 'Ayato' 'Combo' 'Xiangling' 'Heal' 'Barbara' 'Support'
+ 'Dendro Traveler']","['Main DPS' 'Ayato' 'Reaction' 'Nahida' 'Heal' 'Kuki Shinobu' 'Support'
+ 'Yun Jin']"
+30,Charlotte,https://gamewith.net/genshin-impact/article/show/39069,['-' 'B' 'A' 'A'],['Heal' 'Charlotte' 'DPS' 'Kaeya' 'Support' 'Xingqiu' 'Sub-DPS' 'Collei'],"['Heal' 'Charlotte' 'DPS' 'Neuvillette' 'Sub-DPS' 'Furina' 'Support'
+ 'Kazuha']"
+31,Chevreuse,https://gamewith.net/genshin-impact/article/show/41187,['-' '-' 'A' 'A'],['Heal' 'Chevreuse' 'Support' 'Fischl' 'Sub-DPS' 'Xiangling' 'DPS' 'Lisa'],"['Heal' 'Chevreuse' 'Main DPS' 'Yoimiya' 'Sub-DPS' 'Raiden Shogun'
+ 'Support' 'Bennett']"
+32,Collei,https://gamewith.net/genshin-impact/article/show/28969,['-' 'A' '-' '-'],,"['Sub-DPS' 'Collei' 'DPS' 'Yoimiya' 'Reaction' 'Kokomi' 'Support'
+ 'Yun Jin']"
+33,Cyno,https://gamewith.net/genshin-impact/article/show/24371,['A' '-' '-' '-'],"['DPS' 'Cyno' 'Sub-DPS' 'Fischl' 'Reaction' 'Dendro Traveler' 'Heal'
+ 'Barbara']",['DPS' 'Cyno' 'Support' 'Fischl' 'Sub-DPS' 'Furina' 'Healing' 'Baizhu']
+34,Dendro Traveler,https://gamewith.net/genshin-impact/article/show/29670,['-' 'A' 'B' '-'],,"['Support' 'Dendro Traveler' 'Main DPS' 'Yae Miko' 'Sub-DPS'
+ 'Raiden Shogun' 'Healer' 'Kokomi']"
+35,Diona,https://gamewith.net/genshin-impact/article/show/22924,['-' '-' 'S' 'A'],['Support' 'Diona' 'DPS' 'Xiangling' 'DPS' 'Amber' 'Support' 'Lynette'],['Support' 'Diona' 'DPS' 'Diluc' 'Support' 'Venti' 'Sub-DPS' 'Xingqiu']
+36,Gaming,https://gamewith.net/genshin-impact/article/show/42764,['A' '-' '-' '-'],"['Main DPS' 'Gaming' 'Sub-DPS' 'Lynette' 'Sub-DPS' 'Xingqiu' 'Support'
+ 'Bennett']",
+37,Ganyu,https://gamewith.net/genshin-impact/article/show/23418,['A' 'A' '-' '-'],"['Main DPS' 'Ganyu' 'Sub-DPS' 'Barbara' 'Sub-DPS' 'Lynette' 'Support'
+ 'Diona']","['Main DPS' 'Ganyu' 'Sub-DPS' 'Xiangling' 'Sub-DPS' 'Bennett'
+ 'Support / Shield' 'Zhongli']"
+38,Itto,https://gamewith.net/genshin-impact/article/show/29489,['A' '-' '-' '-'],"['Support' 'Arataki Itto' 'Sub-DPS' 'Xiangling' 'Battery' 'Geo Traveler'
+ 'Shield & Heal' 'Noelle']","['DPS' 'Arataki Itto' 'Support' 'Gorou' 'Sub-DPS' 'Zhongli' 'Battery'
+ 'Raiden Shogun']"
+39,Layla,https://gamewith.net/genshin-impact/article/show/34439,['-' '-' 'A' '-'],"['Main' 'Layla' 'Sub-DPS' 'Chongyun' 'Support' 'Xingqiu' 'Support'
+ 'Barbara']",['Shield' 'Layla' 'DPS' 'Ayaka' 'Sub-DPS' 'Yelan' 'Heal' 'Kokomi']
+40,Mona,https://gamewith.net/genshin-impact/article/show/22343,['-' 'A' 'S' '-'],['Main DPS' 'Mona' 'Sub-DPS' 'Layla' 'Enabler' 'Sucrose' 'Support' 'Diona'],"['Main DPS' 'Mona' 'Sub-DPS' 'Fischl' 'Enabler / Support' 'Kuki Shinobu'
+ 'Sub-DPS' 'Kazuha']"
+41,Shenhe,https://gamewith.net/genshin-impact/article/show/24520,['-' '-' 'A' '-'],"['Main DPS' 'Rosaria' 'Sub-DPS' 'Fischl' 'Sub-DPS' 'Shenhe' 'Support'
+ 'Kuki Shinobu']","['Main DPS' 'Wriothesley' 'Sub-DPS / Buffer' 'Shenhe' 'Sub-DPS' 'Sucrose'
+ 'Healer' 'Diona']"
+42,Venti,https://gamewith.net/genshin-impact/article/show/22349,['-' 'B' 'A' '-'],"['Main DPS' 'Fischl' 'Sub-DPS' 'Dendro Traveler' 'Sub-DPS' 'Collei'
+ 'Support' 'Venti']",['Main DPS' 'Ganyu' 'Sub-DPS' 'Mona' 'Support' 'Venti' 'Support' 'Diona']
+43,Xiao,https://gamewith.net/genshin-impact/article/show/22342,['A' '-' '-' '-'],"['Main DPS' 'Xiao' 'Sub-DPS' 'Xiangling' 'Battery' 'Lynette' 'Support'
+ 'Bennett']",['Main DPS' 'Xiao' 'Sub-DPS' 'Furina' 'Support' 'Jean' 'Support' 'Faruzan']
+44,Yaoyao,https://gamewith.net/genshin-impact/article/show/23804,['-' '-' 'A' 'S'],['Heal' 'Yaoyao' 'DPS' 'Lisa' 'Sub-DPS' 'Collei' 'Support' 'Xingqiu'],['Heal' 'Yaoyao' 'DPS' 'Cyno' 'Sub-DPS' 'Nahida' 'Support' 'Fischl']
+45,Yoimiya,https://gamewith.net/genshin-impact/article/show/24607,['A' '-' '-' '-'],"['Main DPS' 'Yoimiya' 'Sub-DPS' 'Xingqiu' 'Sub-DPS' 'Fischl' 'Support'
+ 'Bennett']","['Main DPS' 'Yoimiya' 'Sub-DPS' 'Raiden Shogun' 'Sub-DPS' 'Xingqiu'
+ 'Support' 'Yun Jin']"
+46,Yun Jin,https://gamewith.net/genshin-impact/article/show/24116,['-' '-' 'A' '-'],"['Main DPS' 'Rosaria' 'Sub-DPS' 'Fischl' 'Sub-DPS' 'Layla' 'Support'
+ 'Yun Jin']","['Support' 'Yun Jin' 'Main DPS' 'Yoimiya' 'Sub-DPS' 'Furina'
+ 'Sub-DPS / Healer' 'Jean']"
+47,Beidou,https://gamewith.net/genshin-impact/article/show/22341,['-' 'A' 'C' '-'],,"['Sub-DPS' 'Beidou' 'Main DPS' 'Neuvillette' 'Sub-DPS' 'Fischl' 'Support'
+ 'Kazuha']"
+48,Diluc,https://gamewith.net/genshin-impact/article/show/22351,['B' '-' '-' '-'],"['Main DPS' 'Diluc' 'Sub-DPS' 'Xingqiu' 'Sub-DPS' 'Fischl' 'Support'
+ 'Sucrose']","['Main DPS' 'Diluc' 'Sub-DPS' 'Xingqiu' 'Support' 'Bennett' 'Support'
+ 'Kazuha']"
+49,Eula,https://gamewith.net/genshin-impact/article/show/25134,['B' '-' '-' '-'],['DPS' 'Eula' 'Sub-DPS' 'Fischl' 'Heal' 'Diona' 'Support' 'Lisa'],['DPS' 'Eula' 'Reaction' 'Raiden Shogun' 'Sub-DPS' 'Yelan' 'Heal' 'Baizhu']
+50,Faruzan,https://gamewith.net/genshin-impact/article/show/34437,['-' '-' 'B' '-'],"['Support' 'Faruzan' 'DPS' 'Shikanoin Heizou' 'Sub-DPS' 'Xingqiu'
+ 'Support' 'Bennett']",['Support' 'Faruzan' 'DPS' 'Wanderer' 'Sub-DPS' 'Yelan' 'Heal' 'Bennett']
+51,Kaeya,https://gamewith.net/genshin-impact/article/show/22353,['-' 'B' '-' '-'],"['DPS' 'Kaeya' 'Sub DPS' 'Xiangling' 'Sub DPS' 'Lynette' 'Support'
+ 'Bennett']","['Sub DPS' 'Kaeya' 'Main DPS' 'Diluc' 'Support' 'Venti' 'Support'
+ 'Bennett']"
+52,Keqing,https://gamewith.net/genshin-impact/article/show/22335,['B' '-' '-' '-'],"['Main DPS' 'Keqing' 'Sub-DPS' 'Layla' 'Sub-DPS' 'Fischl'
+ 'Sub-DPS / Healer' 'Diona']","['Main DPS' 'Keqing' 'Sub-DPS' 'Nahida' 'Enabler / Support' 'Kuki Shinobu'
+ 'Flex' 'Zhongli']"
+53,Kirara,https://gamewith.net/genshin-impact/article/show/38304,['-' '-' 'B' '-'],"['Shielder' 'Kirara' 'DPS' 'Lisa' 'Support' 'Dendro Traveler' 'Heal'
+ 'Barbara']",['Shielder' 'Kirara' 'DPS' 'Cyno' 'Support' 'Nahida' 'Heal' 'Kokomi']
+54,Lisa,https://gamewith.net/genshin-impact/article/show/22354,['-' 'B' 'B' '-'],,"['Main DPS' 'Alhaitham' 'Sub-DPS' 'Fischl' 'Sub-DPS' 'Lisa' 'Support'
+ 'Yaoyao']"
+55,Lynette,https://gamewith.net/genshin-impact/article/show/24368,['-' 'A' 'B' '-'],,"['Sub-DPS' 'Lynette' 'Main DPS' 'Childe' 'Sub-DPS' 'Xiangling' 'Support'
+ 'Bennett']"
+56,Rosaria,https://gamewith.net/genshin-impact/article/show/23585,['-' 'B' 'B' '-'],"['Main DPS' 'Rosaria' 'Sub-DPS' 'Chongyun' 'Sub-DPS' 'Xiangling' 'Support'
+ 'Bennett']","['Main DPS' 'Rosaria' 'Sub-DPS' 'Raiden Shogun' 'Sub-DPS / Healer'
+ 'Yun Jin' 'Support' 'Diona']"
+57,Sayu,https://gamewith.net/genshin-impact/article/show/24530,['-' '-' 'C' 'B'],['Heal' 'Sayu' 'DPS' 'Kaeya' 'Reaction' 'Xiangling' 'CC' 'Amber'],['Heal' 'Sayu' 'DPS' 'Ganyu' 'Reaction' 'Mona' 'Support' 'Layla']
+58,Thoma,https://gamewith.net/genshin-impact/article/show/24526,['-' 'B' 'C' '-'],"['Main DPS' 'Xiangling' 'Sub-DPS' 'Chongyun' 'Sub-DPS' 'Xiangling'
+ 'Support' 'Thoma']","['Main DPS' 'Ayato' 'Sub-DPS' 'Nahida' 'Sub-DPS / Enabler' 'Kazuha'
+ 'Enabler' 'Thoma']"
+59,Barbara,https://gamewith.net/genshin-impact/article/show/22352,['-' '-' 'C' 'S'],,"['Support' 'Barbara' 'Sub DPS' 'Dendro Traveler' 'Sub DPS' 'Nahida' 'DPS'
+ 'Nilou']"
+60,Candace,https://gamewith.net/genshin-impact/article/show/34438,['-' '-' 'C' '-'],"['DPS' 'Candace' 'Sub-DPS' 'Xiangling' 'Reaction' 'Sucrose' 'Heal'
+ 'Barbara']","['Support' 'Candace' 'DPS' 'Ayato' 'Sub-DPS' 'Xiangling' 'Healing'
+ 'Bennett']"
+61,Chongyun,https://gamewith.net/genshin-impact/article/show/22337,['-' 'C' 'D' '-'],"['Main DPS' 'Chongyun' 'Sub DPS' 'Xiangling' 'Support' 'Sucrose' 'Support'
+ 'Barbara']","['Support' 'Chongyun' 'Main DPS' 'Ayaka' 'Support' 'Kazuha' 'Support'
+ 'Kokomi']"
+62,Freminet,https://gamewith.net/genshin-impact/article/show/40240,['C' '-' '-' '-'],,
+63,Gorou,https://gamewith.net/genshin-impact/article/show/28855,['-' '-' 'B' 'D'],"['Support' 'Gorou' 'DPS' 'Noelle' 'Sub-DPS' 'Geo Traveler' 'Sub-DPS'
+ 'Kaeya']",
+64,Kaveh,https://gamewith.net/genshin-impact/article/show/24664,['C' '-' '-' '-'],"['Reaction' 'Kaveh' 'Heal' 'Barbara' 'Sub-DPS' 'Xingqiu' 'Support'
+ 'Collei']","['Main DPS' 'Kaveh' 'Enabler' 'Diona' 'Support' 'Nahida' 'Healer'
+ 'Xingqiu']"
+65,Klee,https://gamewith.net/genshin-impact/article/show/22348,['C' '-' '-' '-'],"['Main DPS' 'Klee' 'Sub-DPS' 'Xingqiu' 'Enabler' 'Lynette' 'Support'
+ 'Bennett']","['Main DPS' 'Klee' 'Sub-DPS' 'Rosaria' 'Enabler' 'Kazuha' 'Support'
+ 'Layla']"
+66,Kujou Sara,https://gamewith.net/genshin-impact/article/show/28845,['-' 'C' 'B' '-'],"['Sub-DPS' 'Kujou Sara' 'Sub-DPS' 'Xiangling' 'Heal' 'Barbara' 'Main DPS'
+ 'Lisa']","['Support' 'Kujou Sara' 'DPS' 'Yae Miko' 'Healer' 'Kokomi' 'Support'
+ 'Nahida']"
+67,Mika,https://gamewith.net/genshin-impact/article/show/34440,['-' '-' 'C' 'C'],"['Main DPS' 'Kaeya' 'Sub DPS' 'Xiangling' 'Support' 'Lisa' 'Support'
+ 'Mika']","['Heal' 'Mika' 'Main DPS' 'Eula' 'Sub DPS' 'Raiden Shogun' 'Support'
+ 'Zhongli']"
+68,Shikanoin Heizou,https://gamewith.net/genshin-impact/article/show/33277,['C' 'C' 'D' '-'],"['Damage' 'Shikanoin Heizou' 'Damage' 'Fischl' 'Damage/Buff' 'Xiangling'
+ 'Heal' 'Barbara']","['Main DPS /  Driver' 'Shikanoin Heizou' 'Sub-DPS' 'Yelan' 'Support'
+ 'Fischl' 'Heal' 'Bennett']"
+69,Yanfei,https://gamewith.net/genshin-impact/article/show/25133,['C' '-' '-' '-'],['DPS' 'Yanfei' 'Sub-DPS' 'Xiangling' 'Heal' 'Barbara' 'Reaction' 'Kaeya'],['DPS' 'Yanfei' 'Reaction' 'Xingqiu' 'Shield' 'Zhongli' 'Heal' 'Bennett']
+70,Aloy,https://gamewith.net/genshin-impact/article/show/29597,['D' 'D' '-' '-'],"['DPS' 'Aloy' 'Reaction' 'Xiangling' 'Support' 'Anemo Traveler' 'Healing'
+ 'Barbara']",['Sub-DPS' 'Aloy' 'Main DPS' 'Hu Tao' 'Support' 'Venti' 'Heal' 'Bennett']
+71,Amber,https://gamewith.net/genshin-impact/article/show/22355,['-' 'D' '-' '-'],"['Main DPS' 'Amber' 'Sub-DPS' 'Rosaria' 'Sub-DPS' 'Fischl' 'Support'
+ 'Diona']",['Main DPS' 'Amber' 'Sub-DPS' 'Mona' 'Support' 'Jean' 'Sub-DPS' 'Dehya']
+72,Anemo Traveler,https://gamewith.net/genshin-impact/article/show/22643,['-' 'D' '-' '-'],,"['Support' 'Anemo Traveler' 'Main DPS' 'Klee' 'Sub DPS' 'Yelan' 'Support'
+ 'Bennett']"
+73,Dehya,https://gamewith.net/genshin-impact/article/show/33787,['C' 'D' 'D' '-'],['Main' 'Dehya' 'Sub-DPS' 'Collei' 'Support' 'Sucrose' 'Healer' 'Barbara'],"['Sub DPS' 'Dehya' 'Main DPS' 'Ganyu' 'Healer' 'Bennett' 'Support'
+ 'Nahida']"
+74,Dori,https://gamewith.net/genshin-impact/article/show/33664,['-' '-' 'D' 'C'],"['Heal' 'Dori' 'DPS' 'Lisa' 'Sub-DPS' 'Dendro Traveler' 'Support'
+ 'Xingqiu']","['Main DPS' 'Eula' 'Sub-DPS' 'Raiden Shogun' 'Support' 'Rosaria' 'Healer'
+ 'Dori']"
+75,Electro Traveler,https://gamewith.net/genshin-impact/article/show/28610,['-' 'D' 'D' '-'],"['Support' 'Electro Traveler' 'Damage' 'Xiangling' 'Damage' 'Kaeya'
+ 'Healing' 'Barbara']",
+76,Geo Traveler,https://gamewith.net/genshin-impact/article/show/22642,['-' 'D' '-' '-'],,"['Support DPS' 'Geo Traveler' 'Support' 'Zhongli' 'Main DPS' 'Yae Miko'
+ 'Sub DPS' 'Mona']"
+77,Hydro Traveler,https://gamewith.net/genshin-impact/article/show/29673,['-' 'D' 'D' '-'],,
+78,Ningguang,https://gamewith.net/genshin-impact/article/show/22340,['D' '-' '-' '-'],,"['Main DPS' 'Ningguang' 'Support' 'Zhongli' 'Sub DPS' 'Raiden Shogun'
+ 'Sub DPS' 'Yelan']"
+79,Noelle,https://gamewith.net/genshin-impact/article/show/22346,['D' '-' 'C' 'D'],"['Main DPS' 'Noelle' 'Burst Support' 'Ningguang' 'Sub-DPS' 'Geo Traveler'
+ 'Support' 'Gorou']","['Main DPS' 'Noelle' 'Sub-DPS' 'Albedo' 'Sub-DPS' 'Gorou' 'Support'
+ 'Furina']"
+80,Qiqi,https://gamewith.net/genshin-impact/article/show/22336,['-' 'D' 'D' 'A'],"['Main DPS' 'Kaeya' 'Sub-DPS' 'FIschl' 'Sub-DPS' 'Kuki Shinobu'
+ 'Sub-DPS / Healer' 'Qiqi']","['Main DPS' 'Eula' 'Sub-DPS' 'Fischl' 'Sub-DPS' 'Beidou'
+ 'Sub-DPS / Healer' 'Qiqi']"
+81,Razor,https://gamewith.net/genshin-impact/article/show/22350,['D' '-' '-' '-'],"['Main DPS' 'Razor' 'Sub-DPS' 'Fischl' 'Sub-DPS' 'Rosaria' 'Support'
+ 'Diona']","['Main DPS' 'Razor' 'Sub-DPS' 'Fischl' 'Sub-DPS' 'Yun Jin' 'Support'
+ 'Mika']"
+82,Xinyan,https://gamewith.net/genshin-impact/article/show/22923,['-' 'D' 'D' '-'],['DPS' 'Xinyan' 'Sub DPS' 'Lisa' 'Support' 'Kaeya' 'Support' 'Barbara'],"['Sub-DPS' 'Xinyan' 'DPS' 'Eula' 'Support' 'Raiden Shogun' 'Support'
+ 'Bennett']"
